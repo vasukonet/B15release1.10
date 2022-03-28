@@ -1,2 +1,1 @@
-THis coe gjqw
-'P;O LLDl
+This code written in jkava for registration
